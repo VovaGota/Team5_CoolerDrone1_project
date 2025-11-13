@@ -1,11 +1,11 @@
- Team5_CoolerDrone_project/
-├── temperature_control.ino
-├── libraries/
-│   ├── DHT/
-│   └── Adafruit_Sensor/
-├── docs/
-│   └── connection_diagram.txt
-└── README.md
+ Team5_CoolerDrone_project/ /n
+├── temperature_control.ino /n
+├── libraries/ /n
+│   ├── DHT/ /n
+│   └── Adafruit_Sensor/ /n
+├── docs/ /n
+│   └── connection_diagram.txt /n
+└── README.md /n
 
 
 
